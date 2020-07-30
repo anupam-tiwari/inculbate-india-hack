@@ -1,5 +1,4 @@
-# Covid-app 2020
-
+# CoronAI
 Since the virus in question attacks our respiratory system and hinders breathing ability, doctors have concluded that an efficient way to predict the prognosis is to examine the X-ray of patients.
 
 We have employed Deep Learning in our application which uses the VGG16 which is a deep convolutional network for object recognition.
